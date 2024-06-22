@@ -5,6 +5,6 @@ Task Type: Classification
 
 Dataset: UCI dataset (link: )
 
+![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/df402734-5255-4038-9f67-b64e7eb5fec6)
 
-![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/c32b1629-afd0-44e2-ab9b-56cd4f450672)
 
