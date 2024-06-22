@@ -14,6 +14,23 @@ The dataset was obtained from the [UC Irvine Machine Learning Repository ](https
 
 ## Preprocessing and Exploratory Data Analysis
 
+* First, quantitative numerical columns are identified and operated. Then the Z-score Normalization is applied and the IQR measures are used to detect outliers.
+* The features of the dataset are inspected for correlation to drop either of the highly correlated columns.
+* The PCA transformation was applied to the dependent(y) and independent (x) variables, and the contribution of each component to the overall variation was observed in the figure below.
+  ![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/6c9168e4-a7b0-4120-b2f2-6400ec274d79)
+
+As can be seen, only the top 39 components were able to capture 99.5% of the variation in the dataset. Therefore, the resulting reduced dataset was used to train the models and evaluate their performance. 
+  
+*  The dimensionality of the dataset was reduced to account for only 95% of the variation in the original dataset. 
+
+Features correlation
+
+PCA analysis
+
+All columns checked for linearity (feature->target)
+![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/fd3a04f9-f6fc-48bf-bdae-a7b4f025dec2)
+
+
 
 
 
