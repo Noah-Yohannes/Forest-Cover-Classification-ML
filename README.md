@@ -12,6 +12,8 @@ The dataset was obtained from the [UC Irvine Machine Learning Repository ](https
 ![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/fcf064d7-0d23-42f4-8945-b536173d2ec2)
 
 
+## Preprocessing and Exploratory Data Analysis
+
 
 
 
