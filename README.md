@@ -6,7 +6,7 @@ The dataset was obtained from the [UC Irvine Machine Learning Repository ](https
 * Cartographic variables collected from _Roosevelt National Forest of northern Colorado._
 *  581,000 samples of data, 54 feature columns and encoded target columns.
 *  The target column has 7 labels, forest cover types, encoded in numbers.
-*  Dataset contains no missing values. 
+*  Dataset contains no missing values.
 
 
 
