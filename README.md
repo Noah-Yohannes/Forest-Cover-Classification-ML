@@ -19,35 +19,23 @@ The dataset was obtained from the [UC Irvine Machine Learning Repository ](https
 * The PCA transformation was applied to the dependent(y) and independent (x) variables, and the contribution of each component to the overall variation was observed in the figure below.
   ![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/6c9168e4-a7b0-4120-b2f2-6400ec274d79)
 
-As can be seen, only the top 39 components were able to capture 99.5% of the variation in the dataset. Therefore, the resulting reduced dataset was used to train the models and evaluate their performance. 
-  
-*  The dimensionality of the dataset was reduced to account for only 95% of the variation in the original dataset. 
+As can be seen, only the top 39 components were able to capture 99.5% of the variation in the dataset. Therefore, the resulting reduced dataset was used to train the models and evaluate their performance.
 
-Features correlation
+## Performance Evaluation
 
-PCA analysis
-
-All columns checked for linearity (feature->target)
-![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/fd3a04f9-f6fc-48bf-bdae-a7b4f025dec2)
+The following evaluation metrics were used to evaluate the models' performance:
+* Accuracy
+* Precision = High cost of false positives in this domain
+* Mathew's Correlation Coefficient = Handles class imbalance.
 
 
+## Model's Selection  
+
+75% of the dataset was split into training and the rest for validation.
+
+The following models are used in this project:  KNN (a baseline model), Naive-Bayes, Decision trees, Logistic Regression and MLP. 
 
 
-
-Predicting forest cover type from cartographic variables only (no remotely sensed data).  The actual forest cover type for a given observation (30 x 30 meter cell) was determined from US Forest Service (USFS) Region 2 Resource Information System (RIS) data.  Independent variables were derived from data originally obtained from US Geological Survey (USGS) and USFS data.  Data is in raw form (not scaled) and contains binary (0 or 1) columns of data for qualitative independent variables (wilderness areas and soil types).
-
-Classification of pixels into 7 forest cover types based on attributes such as elevation, 
-aspect, slope, hillshade, soil-type, and more.
-Task Type: Classification
-Dataset/Details Link: Covertype
-
-
-## Outline
-
-* The problem statement and uses
-- Approaches followed
-- ML modelling
-- Performance Evaluation
 
 
 
