@@ -3,8 +3,8 @@
 This project aims to predict the appropriate forest cover type of an area from cartographic variables (no remotely sensed data). The variables define several features of an environment and are based on historical data the best-suited forest to grow in the area is forecasted. 
 
 The dataset was obtained from the [UC Irvine Machine Learning Repository ](https://archive.ics.uci.edu/dataset/31/covertype) It contains: 
-* Cartographic variables collected from Roosevelt National Forest of northern Colorado
-![image](https://github.com/Noah-Yohannes/Covertype_Forest-Classification/assets/112534387/133eeaec-d8fa-4370-84dd-963c7d85bf82)
+* Cartographic variables collected from <span style="color:red"> Roosevelt National Forest of northern Colorado.</span>
+
 
 
 
