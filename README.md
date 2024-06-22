@@ -39,8 +39,9 @@ The following models are used in this project:  KNN (a baseline model), Naive-Ba
                    Models 
 Evaluation Metrics 
 
-|               | Second Header | First Header  | Second Header | Content Cell  | Content Cell  
-| ------------- | ------------- | ------------- | ------------- | -------------  |-------------  
+|  Metrics      |        Models  
+|  Metrics      | Second Header | First Header  | Second Header | Content Cell  | Content Cell  
+| ------------- | ------------- | ------------- | ------------- | ------------- |-------------  
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
 
