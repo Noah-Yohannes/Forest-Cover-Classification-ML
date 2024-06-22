@@ -39,10 +39,12 @@ The following models are used in this project:  KNN (a baseline model), Naive-Ba
                    Models 
 Evaluation Metrics 
 
-|  Metrics      | KNN (5 N)     | Naive Bayees  | Decision T    | Logistic Regression  | MLP
+|  Metrics      | KNN (5 neighbours)     | Naive Bayes  | Decision Trees    | Logistic Regression  | MLP
 | ------------- | ------------- | ------------- | ------------- | ------------- |-------------  
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
+| Accuracy | 0.928  | 0.592  | 0.90  | 0.718  | 0.956
+| Precision | 0.927  | 0.647 | 0.90  | 0.707  | 0.956 
+| Mathew's Correlation Coefficient | 0.878  | 0.37 | 0.83  | 0.515  | 0.927  
+
 
 
 
