@@ -35,8 +35,8 @@ The following evaluation metrics were used to evaluate the models' performance:
 
 The following models are used in this project:  KNN (a baseline model), Naive-Bayes, Decision trees, Logistic Regression and MLP. 
 
-## Resulsts
-                   Models 
+## Results
+                    
 Evaluation Metrics 
 
 |  Metrics      | KNN (5 neighbours)     | Naive Bayes  | Decision Trees    | Logistic Regression  | MLP
